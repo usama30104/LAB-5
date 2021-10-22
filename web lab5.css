@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
+
+}
+
+.big-text{
+    font-size: 50px;
+    margin: 20px;
+    color: rgb(167, 60, 24);
+}
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+a.btn-second{
+    background: transparent;
+    color: black;
+    border: 1px sol;
+}
+a.btn-first{
+    background-color:red ;
+    color: rgb(61, 48, 48);
+}
